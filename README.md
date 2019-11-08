@@ -1,3 +1,3 @@
 # Rak8211
-Setup using RUI and nRFConnect
-A easier guide to follow 
+Setup using RUI and nRFConnect/n
+ A easier guide to follow 
